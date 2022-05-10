@@ -1,0 +1,28 @@
+{
+	"name": "@nfjs/i18n",
+	"version": "1.0.1",
+	"description": "Front",
+	"license": "MIT",
+	"type": "module",
+	"main": "index.js",
+	"repository": {
+		"url": "https://github.com/nf-framework/nf-i18n.git"
+	},
+	"author": {
+		"name": "Azat Yamalov",
+		"email": "yamalov.azat@live.com"
+	},
+	"contributors": [
+		{
+			"name": "Dmitry Boikov",
+			"email": "boikovdv@gmail.com"
+		},
+		{
+			"name": "Andrey Maksimov",
+			"email": "andrmaxmail@gmail.com"
+		}
+	],
+	"dependencies": {
+		"i18n": "^0.14.2"
+	}
+}
